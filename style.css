@@ -1,0 +1,23 @@
+/* This is the style.css. I might modify this to support logos. */
+
+@import url('https://fonts.googleapis.com/css2?family=DotGothic16&display=swap');
+
+h1, h2, h3, h4, button, p, a {
+  color: #FFFFFF;
+  font-family: DotGothic16;
+}
+
+hr {
+  color: #FFFFFF;
+  height: 4px;
+  background-color: #FFFFFF;
+}
+
+iframe {
+  border: none;
+  border-radius: 5px;
+}
+
+body {
+  background-color: #111111;
+}
